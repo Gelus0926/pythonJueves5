@@ -1,2 +1,5 @@
 # pythonJueves5
-Duplas y diccionarios
+##Duplas y diccionarios
+
+####Programado por: Mateo Franco
+
